@@ -1,5 +1,5 @@
 body { 
-       background-color:#eeeeee;
+       background-color:red;
        font-family:helvetica,arial,sans-serif;
 }
 a{
@@ -42,7 +42,7 @@ nav{
     float:right;
 }
 #footer{
-    
+
     clear:both;
     padding:10px;
     background-color: #999999;
